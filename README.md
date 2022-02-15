@@ -1,9 +1,10 @@
-###### PSG-Macro
+## PSG-Macro
 Macro for the Perfect Seed Glitchless category extension
 ## Installation
-1. Install (autohotkey)[https://www.autohotkey.com/]
-2. In your minecraft world list search up "PSG" and if any worlds pop up delete/rename them
-3. Configure the macro with a saves and old worlds folder directories
+1. Install [autohotkey](https://www.autohotkey.com/)
+2. Unzip the folder and *dont take anything out of it*
+3. In your minecraft world list search up "PSG" and if any worlds pop up delete/rename them
+4. Configure the macro with a saves and old worlds folder directories
 ## Using a different world
 The folder that you get when you unzip contains 3 files, if you want to use a different world make sure that you replace PerfectWorld in the folder with it. Make sure it has the same name and make sure the minecraft title has "PSG" in the name.
 
