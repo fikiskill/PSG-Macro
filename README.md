@@ -1,9 +1,14 @@
 ## PSG-Macro
 Macro for the Perfect Seed Glitchless category extension
+
 Default hotkeys:
+
 U: Reset when in a world
+
 I: Reset on title screen
+
 O: Datapack list
+
 P: Perch
 ## Installation
 *if you downloaded a newer version you only need to replace the macro*
