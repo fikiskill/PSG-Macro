@@ -1,6 +1,7 @@
 ## PSG-Macro
 Macro for the Perfect Seed Glitchless category extension
 ## Installation
+*if you are downloading a newer version you only need to replace the macro*
 1. Install [autohotkey](https://www.autohotkey.com/)
 2. Unzip the folder and *dont take anything out of it*
 3. In your minecraft world list search up "PSG" and if any worlds pop up delete/rename them
