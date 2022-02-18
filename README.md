@@ -18,5 +18,14 @@ P: Perch
 4. Set your saves directory, oldWorlds directory and configure other macro options
 ## Using a different world
 The folder that you get when you unzip contains 3 files, if you want to use a different world make sure that you replace PerfectWorld in the folder with it. Make sure it has the same name and make sure the minecraft title has "PSG" in the name.
+## FAQ
+Q:My worlds aren't moving!
+A: Make sure you properly set your saves and oldworlds folder, also make sure your oldworlds folder exists. If its still not working delete everything in your oldWorlds folder. If that still didnt fix it dm me on discord
 
-If you have any issues dm me on discord fikiskill#9693
+Q: F3 doesnt show when I load into a world for the first time!
+A: This is a known issue, but it's so rare and unessecary that I won't fix it because then all resets will be sacrficed for one
+
+Q: Why does it always join the oldWorld?
+A: Read the installation tab
+
+If you have any more rarer issues dm me on discord fikiskill#9693
