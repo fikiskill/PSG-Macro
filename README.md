@@ -3,7 +3,7 @@ Macro for the Perfect Seed Glitchless category extension
 
 Default hotkeys:
 
-U: Reset when in a world
+U: Reset
 
 O: Datapack list
 
